@@ -2,17 +2,17 @@
 <resources
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation" >
-    <string name="AUTH_FAILED">Falsche Login Daten</string>
+    <string name="AUTH_FAILED">Anmeldedaten nicht korrekt</string>
     <string name="ERROR_FILTERS">Fehler beim Laden der Filter</string>
     <string name="LOGIN_OK">Login erfolgreich</string>
     <string name="PERMISSION_OK">Danke für die Berechtigung!</string>
     <string name="SERVER_FAILED">Server antworten nicht</string>
-    <string name="TRYING_GOOGLE_LOGIN">Google Login ist (noch) nicht möglich.</string>
-    <string name="TRYING_PTC_LOGIN">Versuche PTC login.</string>
+    <string name="TRYING_GOOGLE_LOGIN">Versuche Login via Google</string>
+    <string name="TRYING_PTC_LOGIN">Versuche Login via PTC</string>
     <string name="cancel">Abbrechen</string>
     <string name="filter">Filter</string>
     <string name="hide">Verstecken</string>
-    <string name="higher_number_slower_search">1 Einheit ~= 200 Meter</string>
+    <string name="higher_number_slower_search">1 Einheit ≈ 200 Meter</string>
 
     <string name="ptclogin">PTC Login</string>
     <string name="googlelogin">Google Login</string>
@@ -25,15 +25,15 @@
     <string name="pokemon_name">Pokemon Name</string>
     <string name="save">Speichern</string>
     <string name="scan">Scan</string>
-    <string name="search_radius">Such Radius</string>
+    <string name="search_radius">Suchradius</string>
     <string name="searchicon">Such Icon</string>
     <string name="select_all">Alle auswählen</string>
     <string name="server_refresh">Server Aktualisierung</string>
     <string name="show_range">Zeige Reichweite</string>
-    <string name="timeEstimate">Voraussichtliche Scan Zeit:</string>
+    <string name="timeEstimate">Voraussichtliche Scandauer:</string>
     <string name="title_activity_maps">Karte</string>
     <string name="username">Benutzername</string>
-    <string name="warning_nplease_do_not_use_your_main_pokego_naccount_for_this_app">ACHTUNG: \nBitte nutze nicht deinen eigentlichen\nPokeGo Account für diese App!</string>
+    <string name="warning_nplease_do_not_use_your_main_pokego_naccount_for_this_app">ACHTUNG: \nBitte nutze nicht deinen PokeGO \nHauptaccount für diese App!</string>
     <string name="pokemon_filters">Pokemon Filter</string>
     <string name="settings">Einstellungen</string>
     <string name="logout">Ausloggen</string>
@@ -45,13 +45,13 @@
     <string name="clear_pokemon">Pokemons löschen</string>
     <string name="donate">Spenden</string>
     <string name="icon_scale">Icon Größe</string>
-    <string name="gyms_cleared">Arenen und Pokemons gelöscht</string>
+    <string name="gyms_cleared">Arenen gelöscht</string>
     <string name="only_lured">Nur Pokestops mit Lockmodul</string>
     <string name="version_check_failed">Versions Check fehlgeschlagen.</string>
     <string name="update">Aktualisieren</string>
     <string name="update_available_title">Aktualisierung verfügbar</string>
     <string name="update_check_failed">Suche nach Aktualisierungen fehlgeschlagen</string>
-    <string name="updating_pokescanner">Aktualisiere Poke Scanner</string>
-    <string name="update_available_long">Ein Update für Poke Scanner ist verfügbar.</string>
+    <string name="updating_pokescanner">Aktualisiere PokeScanner</string>
+    <string name="update_available_long">Ein Update für PokeScanner ist verfügbar.</string>
     <string name="changes">Änderungen:</string>
 </resources>
